@@ -1422,3 +1422,9 @@
   -webkit-mask-image: url("../icon/youtube_logo_fill.svg");
   mask-image: url("../icon/youtube_logo_fill.svg");
 }
+
+.icon\:synagogue::before,
+.icon\:synagogue::after {
+  -webkit-mask-image: url("../icon/synagogue.svg");
+  mask-image: url("../icon/synagogue.svg");
+}
